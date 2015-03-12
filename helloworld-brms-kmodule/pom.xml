@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.jboss.quickstarts.brms</groupId>
+  <artifactId>helloworld-brms-kmodule</artifactId>
+  <version>1.0.0</version>
+  <name>Helloworld BRMS KModule</name>
+  <description>A KIE project or module is simply a Maven Java project or module; with an additional metadata file META-INF/kmodule.xml.</description>
+  
+</project>
