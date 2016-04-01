@@ -22,7 +22,7 @@
     <artifactId>brms-repository-parent</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
-    <name>JBoss BRMS Quickstart: jboss-brms-repository</name>
+    <name>JBoss BRMS Quickstarts: jboss-brms-repository</name>
     <description>JBoss BRMS Repository Parent</description>
     <url>http://www.jboss.org/jdf/quickstarts/get-started/</url>
     <licenses>
